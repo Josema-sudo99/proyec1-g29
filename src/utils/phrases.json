@@ -1,0 +1,97 @@
+[
+    {
+      "id": "Son Goku",
+      "phrase": "Eres un ser increíble, diste lo mejor de ti y por eso te admiro. Pasaste por varias transformaciones, fuiste tan poderoso que todos nosotros te odiamos",
+      "author": "Son Goku"
+    },
+    {
+      "id": "Proverbio Japones",
+      "phrase": "Se te cumplirá un hermoso sueño y veras como otros sueños se hacen realidad.",
+      "author": "Proverbio Japones"
+      },
+    { 
+      "id": "Uzumaki Naruto", 
+      "phrase": "No vivas con falsedades ni miedos, porque terminarás odiándote a ti mismo.",
+      "author": "Uzumaki Naruto"
+    },
+    { 
+      "id": "Roronoa Zoro",
+      "phrase": "A mí me da igual que los dioses existan o no, yo soy el amo de mi vida; paso de los temas religiosos, pero jamás menospreciaré a alguien que crea en ellos.",
+      "author": "Roronoa Zoro"
+    },
+    { 
+      "id": "proverbia.net",
+      "phrase": "Valiente es aquel que ama..",
+      "author": "proverbia.net"
+    },
+    { 
+      "id": "Hitsugaya Toushiro",
+      "phrase": "¿No es asombroso el cielo? No importa cuantas veces lo mires, nunca es el mismo dos veces. Este cielo de ahora solo existe en este instante.",
+      "author": "Hitsugaya Toushiro"
+    },
+    { 
+      "id": "Edward Elric",
+      "phrase": "Levántate y camina hacia adelante, tienes las piernas para hacerlo.",
+      "author": "Edward Elric"
+    },
+    { 
+      "id": "L.",
+      "phrase": "No importa cuán capacitado que estés, tú solo no puedes cambiar el mundo. Pero eso es lo maravilloso del mundo. ",
+      "author": "L."
+    },
+    { 
+      "id": "ajescudero",
+      "phrase": "Cuando busques lo que mas deseas, recuerda hacer tu mejor esfuerzo.",
+      "author": "ajescudero"
+    },
+    { 
+      "id": "Spike",
+      "phrase": "Había una mujer, fue la primera vez que encontré a alguien que estuviera verdaderamente vivo. Al menos, eso fue lo que pensé. Ella era... la parte de mí que perdí en algún lugar del camino, la parte que faltaba, la que deseaba. ",
+      "author": "Spike"
+    },
+    { 
+      "id": "Vash Estampida",
+      "phrase": "La gente tiene diferentes formas de pensar, incluso cuando se comete un error... Si la persona se da cuenta de su error es posible que lo enmiende, si mantienes tu visión clara verás el futuro, es de lo que se trata esta vida… ",
+      "author": "Vash Estampida"
+    },
+    { 
+      "id": "Lelouch",
+      "phrase": "Si la felicidad tuviera una forma, tendría forma de cristal, porque puede estar a tu alrededor sin que la notes. Pero si cambias de perspectiva, puede reflejar una luz capaz de iluminarlo todo.",
+      "author": "Lelouch"
+      },
+    { 
+      "id": "Ryoji Kaji",
+      "phrase": "Nadie puede entender perfectamente a otra persona, ya es bastante difícil entenderse a uno mismo, tal vez por eso la vida es tan interesante.",
+      "author": "Ryoji Kaji"
+    },
+    { 
+      "id": "Dr. Tenma",
+      "phrase": "Si no tienes recuerdos felices, nunca es tarde para comenzar a construirlos. ",
+      "author": "Dr. Tenma"
+    },
+    { 
+      "id": "Aioria de Leo",
+      "phrase": "No se necesitan razones particulares para ayudar a alguien.",
+      "author": "Aioria de Leo"
+    },
+    { 
+      "id": "Gilgamesh 1",
+      "phrase": "Hay cosas que son bellas por el simple hecho de no poder poseerlas.",
+      "author": "Gilgamesh 1"
+    },
+    { 
+      "id": "Gilgamesh (Archer)",
+      "phrase": "Has lo que desees. Ese es el verdadero motivo del entretenimiento. Entretenimiento conduce al placer... Y el placer te lleva a la felicidad, así tu camino esta claro, tan claro que no hay necesidad de dudar.",
+      "author": "Gilgamesh (Archer)"
+    },
+    { 
+      "id": "Gilgamesh 2",
+      "phrase": "Hay cosas que son bellas por el simple hecho de no poder poseerlas.",
+      "author": "Gilgamesh 2"
+    },
+    { 
+      "id": "Gilgamesh (Archer) 1",
+      "phrase": "Hay dos clases de arrogancia. La primera es: Cuando eres inequivalente a la tarea, y la segunda: Donde tus sueños son demasiado grandes.",
+      "author": "Gilgamesh (Archer) 1"
+    }
+]
